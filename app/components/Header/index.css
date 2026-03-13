@@ -1,0 +1,24 @@
+.wallet-adapter-button-trigger {
+  font-weight: 700;
+  font-size: .875rem;
+  line-height: 1.25rem;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  background-color: rgb(216, 180, 254);
+  color: black;
+  border-color: rgb(0, 0, 0);
+  border-width: 2px;
+  border-radius: 0;
+  border: solid;
+  white-space: nowrap;
+  align-items: center;
+  height: 2.25rem;
+  display: inline-flex;
+  cursor: pointer;
+}
+
+.wallet-adapter-button-trigger:hover {
+  background-color: rgb(192, 132, 252) !important;
+}
