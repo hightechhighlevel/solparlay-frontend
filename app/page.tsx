@@ -153,7 +153,7 @@ export default function Home() {
             Chain Your Success with Smart Strategies
           </p>
           
-          {/* Enhanced Connection Status */}
+          {/* Enhanced Connection Status: Optimized for mobile and desktop */}
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6 mb-12">
             <div className={`
               flex items-center space-x-3 px-6 py-4 rounded-2xl backdrop-blur-xl border shadow-lg transition-all duration-300 hover:scale-105
